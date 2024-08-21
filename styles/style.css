@@ -1,0 +1,26 @@
+.program1{
+  background-image: url(../Images/2.png);
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  background-position: center;
+}
+.program2{
+  background-image: url(../Images/3.png);
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  background-position: center;
+}
+.program3{
+  background-image: url(../Images/4.png);
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+  background-size: cover;
+  border-radius: 15px;
+  background-position: center;
+}
